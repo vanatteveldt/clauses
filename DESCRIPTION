@@ -1,0 +1,15 @@
+Package: rsyntax
+Type: Package
+Title: R library to help dealing with syntactic structure
+Version: 0.1
+Date: 2015-10-17
+Author: (blinded)
+Maintainer: (blinded) <author@example.com> 
+Depends:
+    igraph,
+    reshape2,
+    plyr,
+    colorspace
+Description: R library to help dealing with syntactic structure
+License: MIT license
+RoxygenNote: 5.0.1
