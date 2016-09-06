@@ -1,5 +1,9 @@
-R functions for working with syntactic structure coded as token lists
-(e.g. CONLL format)
+Warning: This repository is outdated!
+====
+
+This 'anonymous' repository was used for the reviewing process and should no longer be used 
+except for exact replicating of the published results. 
+Please see http://github.com/vanatteveldt/rsyntax for the latest version of this module.
 
 Installation
 ============
